@@ -1,6 +1,5 @@
 #    /\________/\
 #   /,,◕　⋏　◕,,\   usage: python3 subnets_disallow.py -o 0.0.0.0/0 -e 192.168.0.0/24 8.8.8.8/32
-#   |     ---     |
 
 import ipaddress as ip
 from argparse import ArgumentParser
